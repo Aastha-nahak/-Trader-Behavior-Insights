@@ -1,4 +1,5 @@
 # -Trader-Behavior-Insights
+Bonus: Implemented a simple predictive model and trader clustering to identify behavioral archetypes and predict next-day profitability.
 # Fear vs Greed: Trader Behavior on Hyperliquid
 
 ## Project Goal
